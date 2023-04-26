@@ -1,0 +1,94 @@
+<diff>
+  <replace sel="/regionyields/resource[@ware='ore']/yield[@name='lowest']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ore']/yield[@name='verylow']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ore']/yield[@name='low']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ore']/yield[@name='medlow']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ore']/yield[@name='medium']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ore']/yield[@name='high']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ore']/yield[@name='highplus']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ore']/yield[@name='veryhigh']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='silicon']/yield[@name='lowest']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='silicon']/yield[@name='verylow']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='silicon']/yield[@name='low']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='silicon']/yield[@name='medlow']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='silicon']/yield[@name='medium']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='silicon']/yield[@name='high']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='silicon']/yield[@name='highplus']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='silicon']/yield[@name='veryhigh']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ice']/yield[@name='lowest']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ice']/yield[@name='verylow']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ice']/yield[@name='low']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ice']/yield[@name='medium']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ice']/yield[@name='medhigh']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ice']/yield[@name='high']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='ice']/yield[@name='veryhigh']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='nividium']/yield[@name='low']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='nividium']/yield[@name='medium']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='nividium']/yield[@name='high']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='nividium']/yield[@name='veryhigh']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='hydrogen']/yield[@name='low']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='hydrogen']/yield[@name='medium']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='hydrogen']/yield[@name='medhigh']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='hydrogen']/yield[@name='high']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='hydrogen']/yield[@name='veryhigh']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='helium']/yield[@name='low']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='helium']/yield[@name='medium']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='helium']/yield[@name='medhigh']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='helium']/yield[@name='high']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='helium']/yield[@name='veryhigh']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='methane']/yield[@name='low']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='methane']/yield[@name='medium']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='methane']/yield[@name='medhigh']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='methane']/yield[@name='high']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='methane']/yield[@name='veryhigh']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='rawscrap']/yield[@name='low']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='rawscrap']/yield[@name='medium']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='rawscrap']/yield[@name='high']/@resourcedensity">
+  </replace>
+  <replace sel="/regionyields/resource[@ware='rawscrap']/yield[@name='veryhigh']/@resourcedensity">
+  </replace>
+</diff>
